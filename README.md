@@ -4,7 +4,7 @@
 1. Établir le dictionnaire de donnés,
 2. Réaliser le MCD et le MLD.
 
-## Énoncé 1: 
+## Énoncé 1: Gestion de stock (Entrée)
 Dans l’entreprise "X", les produits (caractérisés par un code et une désignation et un prix unitaire) peuvent soit être fabriqués par l’entreprise ou provenir de différents fournisseurs (caractérisés par un numéro et un nom et une adresse).
 Un même produit peut provenir de plusieurs fournisseurs à des prix d’achat différents.
 Un fournisseur peut livrer plusieurs produits.
