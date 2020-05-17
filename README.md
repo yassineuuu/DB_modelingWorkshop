@@ -291,25 +291,27 @@ Installer le serveur local `XAMPP` ou un outil similaire. En utilisant l'outil M
 ('3', 'Asia\r'),
 ('4', 'Middle East and Africa\r')
 
-8.  Ecrire une requête pour afficher les noms (prénom, nom) en utilisant les alias `Prénom`, `Nom`.
+8. Écrire une requête pour afficher les noms (prénom, nom) en utilisant les alias `Prénom`, `Nom`.
 
-9. Écrivez une requête pour obtenir l'ID unique du service à partir de la table des employés.
+9. Écrire une requête pour obtenir l'ID unique du département à partir de la table des employés.
 
-10. Écrivez une requête pour obtenir tous les détails de l'employé à partir de la table des employés, par ordre de prénom, en ordre décroissant.
+10. Écrire une requête pour obtenir tous les détails de l'employé à partir de la table des employés, par ordre de prénom, en ordre décroissant.
 
-11. Écrivez une requête pour obtenir les noms (prénom, nom), le salaire, la CP de tous les employés (la CP est calculée à 15 % du salaire).
+11. Écrire une requête pour obtenir les noms (prénom, nom), le salaire, la CP de tous les employés (la CP est calculée à 15 % du salaire).
 
-12. Écrivez une requête pour obtenir l'ID de l'employé, les noms (prénom, nom), le salaire dans l'ordre croissant du salaire.
+12. Écrire une requête pour obtenir l'ID de l'employé, les noms (prénom, nom), le salaire dans l'ordre croissant du salaire.
 
 13. Effectuez une recherche pour obtenir le total des salaires payables aux salariés.
-Effectuez une recherche pour obtenir le salaire maximum et minimum du tableau des employés.
 
 14. Effectuez une recherche pour obtenir le salaire moyen et le nombre de salariés dans le tableau des salariés.
 
-15. Rédigez une requête pour obtenir le nombre d'employés travaillant dans l'entreprise.
+15. Écrire une requête pour obtenir le nombre d'employés travaillant dans l'entreprise.
 
-16. Faites une demande pour obtenir le nombre d'emplois disponibles dans le tableau des employés.
+16. Écrire une requête pour obtenir le nombre d'emplois disponibles dans le tableau des employés.
 
 17. Écrire une requête pour obtenir tous les prénoms du tableau des employés en majuscules.
 
-18. Écrivez une requête pour obtenir les 3 premiers caractères du prénom dans la table des employés.
+18. Écrire une requête pour obtenir les 3 premiers caractères du prénom dans la table des employés.
+
+19. Effectuez une recherche pour obtenir le salaire maximum et minimum du tableau des employés.
+
