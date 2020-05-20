@@ -315,3 +315,21 @@ Installer le serveur local `XAMPP` ou un outil similaire. En utilisant l'outil M
 
 19. Effectuez une recherche pour obtenir le salaire maximum et minimum du tableau des employés.
 
+20. Rédigez une requête pour afficher le nom (prénom, nom) et le salaire de tous les employés dont le salaire n'est pas compris entre 10 000 et 15 000 dollars.
+
+21. Rédigez une requête pour afficher le nom (prénom, nom) et l'ID du département de tous les employés des départements 30 ou 100 par ordre croissant.
+
+22. Rédigez une requête pour afficher le nom (prénom, nom) et le salaire de tous les employés dont le salaire ne se situe pas dans la fourchette de 10 000 à 15 000 dollars et qui se trouvent dans le département 30 ou 100.
+
+23. Rédigez une requête pour afficher le nom (prénom, nom) et la date d'embauche pour tous les employés qui ont été embauchés en 1987.
+
+24. Rédigez une requête pour trouver le nom (prénom, nom) de tous les employés qui travaillent dans le département informatique.
+
+25. Rédigez une requête pour trouver les adresses (ID_lieu, adresse_rue, ville, état_province, nom_pays) de tous les départements.
+- Conseil : utilisez JOINTURE NATUREL
+
+26. Rédigez une requête pour afficher le titre du poste et le salaire moyen des employés. 
+
+27. Rédigez une requête pour calculer l'âge en année.
+
+28. Rédigez une requête pour mettre à jour la partie du numéro de téléphone dans la table des employés. Dans le numéro de téléphone, la sous-chaîne "124" sera remplacée par "999".
