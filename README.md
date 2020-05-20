@@ -329,7 +329,7 @@ Installer le serveur local `XAMPP` ou un outil similaire. En utilisant l'outil M
 24. Rédigez une requête pour trouver le nom (prénom, nom) de tous les employés qui travaillent dans le département informatique.
 
 25. Rédigez une requête pour trouver les adresses (ID_lieu, adresse_rue, ville, état_province, nom_pays) de tous les départements.
-- Conseil : utilisez JOINTURE NATUREL
+- Conseil : utilisez JOINTURE NATURELLE
 
 26. Rédigez une requête pour afficher le titre du poste et le salaire moyen des employés. 
 
