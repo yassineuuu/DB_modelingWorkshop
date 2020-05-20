@@ -1,8 +1,11 @@
 # db-Modeling-Workshop
 
 ## Objectifs :  
-1. Établir le dictionnaire de donnés,
-2. Réaliser le MCD et le MLD.
+1. Établir le dictionnaire de donnés.
+2. Identifier les règles de gestion.
+3. Réaliser le MCD et le MLD / diagramme de classe.
+4. Créer une base de donnée à partir d'un modèle relationnelle.
+5. Effectuer des requêtes CRUD.
 
 ## Énoncé 1: Gestion de stock (Entrée)
 Dans l’entreprise "X", les produits (caractérisés par un code et une désignation et un prix unitaire) peuvent soit être fabriqués par l’entreprise ou provenir de différents fournisseurs (caractérisés par un numéro et un nom et une adresse).
